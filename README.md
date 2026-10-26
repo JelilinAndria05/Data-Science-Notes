@@ -13,4 +13,4 @@ ABOUT THIS REPOSITORY:
 
 OBJECTIVES:
 -
-  To strengthen my analytical 
+  To strengthen my analytical and technical skills through structured learning, hands-on practice, and continuous improvement, with a focus on Data Analytics and Data Science.
